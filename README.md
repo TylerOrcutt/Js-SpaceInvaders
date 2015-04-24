@@ -9,4 +9,4 @@ move left/right: left-arrow/right-arrow keys
 fire: left ctrl
 ```
 
-![alt tag](https://github.com/sudaphed/JS-SpaceInvaders/blob/master/images/screen.jpg)
+![alt tag](https://github.com/TylerOrcutt/JS-SpaceInvaders/blob/master/images/screen.jpg)
